@@ -1,0 +1,174 @@
+@media only screen and (max-width: 450px) {
+    .main{
+        max-width: 450px;
+        position: fixed;
+        top: 0;
+        height: 100px; 
+        margin:0;
+        width: 100%;
+        background-color: rgb(202, 202, 202);
+        box-shadow: 0px 0px 40px rgba(0, 110, 255, 0.822);
+        z-index: 20000;
+    }
+    .main ul{
+        text-align: center;
+        display:list-item;
+        padding-left: 5px;
+    }
+    .main ul img{
+        margin-top: 35px;
+        float: left;
+        width: 30px;
+    }
+    .main ul p{
+        float: left;
+        margin-top: 35px;
+        margin-right: 0px;
+        padding-left: 10px;
+        font-family:monospace;
+        font-weight: bold;
+        font-size: 15px;
+        color: #5a7ccc;
+        text-shadow: 0px 1px 4px rgb(0, 255, 200);
+    }
+    .main ul div{
+        margin-right: 20px;
+    }
+    .main ul li{
+        display: inline-block;
+        list-style: none;
+        margin-top: 27px;
+        margin-right: 10px;
+        text-decoration: none;
+        font-family:monospace;
+        font-weight: bold;
+        font-size: 18px;
+        text-shadow: 0px 1px 4px rgb(0, 255, 200);
+    }
+    .main ul li a{
+        color: rgb(0, 110, 255);
+        text-decoration: none;
+        transition: 1s;
+    }
+    .main ul li a:hover{
+        transition: 0.7s;
+        background-color: rgb(168, 168, 168);
+        padding: 20px;
+        border-radius: 20px;
+    }
+    .main ul .su{
+        background-color: #5a7ccc;
+        border:#5a7ccc;
+        margin-top:10px;
+        font-size: 10px;
+        margin-right: 50px        
+    }
+    .main ul .su:hover{
+        background-color: #5d87e9;
+    }
+    .main ul .si{
+        background-color: rgb(0, 110, 255);
+        border: rgb(0, 110, 255);
+        margin-top: 10px;
+        margin-right: 20px;
+        font-size: 10px;
+    }
+    .main ul .si:hover{
+        background-color: rgb(34, 130, 255);
+    }
+    /*Main.jsx*/
+/*about*/
+.about-us{
+    height: 230px;
+    width: 10%;
+    margin-left: 12px;
+}
+.about h1{
+    margin-top: 150px;
+    text-align: center;
+    color: #174170;
+    font-weight: bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.about-us p{
+    width: 370px;
+    color: rgb(0, 99, 124);
+    font-size: 15px;
+    font-weight: bold;
+    margin: auto;
+    text-align: center;
+}
+  
+/*phones*/
+.phones h1{
+    text-align: center;
+    font-weight: bold;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    color:rgb(34, 130, 255) ;
+}
+.main-phone{
+    display:list-item
+}
+.ph{
+    width: 340px;
+    margin: 30px;
+    height: 300px;
+    border: rgb(34, 130, 255) solid 2px ;
+    box-shadow: 0px 0px 30px rgba(0, 110, 255, 0.822);
+    border-radius: 20px;
+    transition: 0.8s;
+}
+.ph:hover{
+    transition: 0.8s;
+    cursor: pointer;
+    width: 350px;
+    border: rgb(34, 130, 255) solid 3px ;
+    height: 340px;
+    box-shadow: 0px 20px 20px rgba(0, 110, 255, 0.822);
+}
+.main-phone p{
+    display: none;
+    font-size: 15px;
+    margin-left: 10px;
+    color: gray;
+    width: 380px;
+    text-align: center;
+}
+/*contact*/
+.contact textarea{
+    text-align: center;
+    width: 350px;
+    transition: 0.5s;
+}
+/*footer*/
+.footer{
+    background-color: rgb(163, 192, 255);
+    margin-top: 100px;
+    width: 450px;
+    box-shadow: 0px 0px 40px rgba(0, 110, 255, 0.822);
+    height: 370px;
+}
+.part1{
+    float: left;
+    margin: 10px 40px;
+    text-align: center;
+}
+.part1 h2{
+    font-size: 20px;
+}
+.part2{
+    margin: 0px 100px;
+    width: 300px;
+    float:right;
+    color: #000000;
+
+}
+.det{
+    color: #174170;
+    font-size: 18px;
+    text-decoration: none;
+}
+.social-ic{
+    margin: 15px;
+}}
