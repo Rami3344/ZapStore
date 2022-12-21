@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.1ce175de.css",
-    "main.js": "/static/js/main.db9fe2c6.js",
-    "static/js/787.c1112931.chunk.js": "/static/js/787.c1112931.chunk.js",
-    "static/media/iphone13.jpg": "/static/media/iphone13.e359039967293efee77b.jpg",
-    "static/media/iphone14.png": "/static/media/iphone14.887e903586123fef689f.png",
-    "static/media/iphone12.jpg": "/static/media/iphone12.d6422aea7e9635c93054.jpg",
-    "static/media/S21.jpg": "/static/media/S21.50afc5d91c38a526e8fb.jpg",
-    "static/media/smartphone.png": "/static/media/smartphone.537e92a7218dcc179589.png",
-    "static/media/S23.jpg": "/static/media/S23.d00a18fa73f1f30afdbf.jpg",
-    "static/media/S22.jpeg": "/static/media/S22.19bbe784d7c263693df5.jpeg",
-    "index.html": "/index.html",
-    "main.1ce175de.css.map": "/static/css/main.1ce175de.css.map",
-    "main.db9fe2c6.js.map": "/static/js/main.db9fe2c6.js.map",
-    "787.c1112931.chunk.js.map": "/static/js/787.c1112931.chunk.js.map"
+    "main.css": "/ZapStore/static/css/main.1ce175de.css",
+    "main.js": "/ZapStore/static/js/main.4df0167c.js",
+    "static/js/787.c1112931.chunk.js": "/ZapStore/static/js/787.c1112931.chunk.js",
+    "static/media/iphone13.jpg": "/ZapStore/static/media/iphone13.e359039967293efee77b.jpg",
+    "static/media/iphone14.png": "/ZapStore/static/media/iphone14.887e903586123fef689f.png",
+    "static/media/iphone12.jpg": "/ZapStore/static/media/iphone12.d6422aea7e9635c93054.jpg",
+    "static/media/S21.jpg": "/ZapStore/static/media/S21.50afc5d91c38a526e8fb.jpg",
+    "static/media/smartphone.png": "/ZapStore/static/media/smartphone.537e92a7218dcc179589.png",
+    "static/media/S23.jpg": "/ZapStore/static/media/S23.d00a18fa73f1f30afdbf.jpg",
+    "static/media/S22.jpeg": "/ZapStore/static/media/S22.19bbe784d7c263693df5.jpeg",
+    "index.html": "/ZapStore/index.html",
+    "main.1ce175de.css.map": "/ZapStore/static/css/main.1ce175de.css.map",
+    "main.4df0167c.js.map": "/ZapStore/static/js/main.4df0167c.js.map",
+    "787.c1112931.chunk.js.map": "/ZapStore/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1ce175de.css",
-    "static/js/main.db9fe2c6.js"
+    "static/js/main.4df0167c.js"
   ]
 }
